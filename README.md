@@ -26,6 +26,7 @@
 - show the main reason behind the customer churn, and provide some key insight to help resolve the customer churn issue.
 
 ## Dashboard View:
+![Dashboard View](https://github.com/VaibhavGhorpade1999/Telecom-Customer-Churn-Analysis-using-Tableau/blob/main/Dashboard%20View.jpg)
 
 ## Data Source:
 [www.mavenanalytics.com](https://www.mavenanalytics.io/challenges/maven-churn-challenge/6)
