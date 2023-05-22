@@ -28,4 +28,4 @@
 ## Dashboard View:
 
 ## Data Source:
-![www.mavenanalytics.com](https://www.mavenanalytics.io/challenges/maven-churn-challenge/6)
+[www.mavenanalytics.com](https://www.mavenanalytics.io/challenges/maven-churn-challenge/6)
