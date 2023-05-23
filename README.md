@@ -7,7 +7,7 @@
 ## About this project
 - The Project: Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
 
-## The dataset:
+## Dataset:
 
 - This dataset contains 2 tables, in CSV format:
 - The Customer Churn table contains information on all 7,043 customers from a Telecommunications company in California in Q2 2022.
